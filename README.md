@@ -1,4 +1,4 @@
-# E-mandi
+# Digital-Market
 
 It’s an electronic vegetable market making the vegetable market more convenient for the
 use of civilian and even to keep the transparency in the whole market system from retailer
